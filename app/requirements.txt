@@ -1,0 +1,28 @@
+# Core dependencies
+numpy==1.22.4
+pandas==1.4.3
+opencv-python==4.5.5.64
+scikit-learn==1.0.2
+Pillow==9.1.1
+
+# Data augmentation and preprocessing
+albumentations==1.1.0
+
+# TensorFlow for deep learning
+tensorflow==2.9.1
+
+# Flask for web app deployment
+flask==2.1.2
+
+# Matplotlib for plotting
+matplotlib==3.5.2
+
+# Additional dependencies for data visualization
+seaborn==0.11.2
+
+# If using Jupyter Notebooks
+jupyter==1.0.0
+notebook==6.4.12
+
+# Optional: Dependencies for Docker deployment
+gunicorn==20.1.0

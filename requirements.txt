@@ -1,0 +1,28 @@
+# Core dependencies
+numpy
+pandas
+opencv-python
+scikit-learn
+Pillow
+
+# Data augmentation and preprocessing
+albumentations
+
+# TensorFlow for deep learning
+tensorflow
+
+# Flask for web app deployment
+flask
+
+# Matplotlib for plotting
+matplotlib
+
+# Additional dependencies for data visualization
+seaborn
+
+# If using Jupyter Notebooks
+jupyter
+notebook
+
+# Optional: Dependencies for Docker deployment
+gunicorn
